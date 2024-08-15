@@ -12,8 +12,8 @@ This project provides a RESTful API to detect shapes in images using a pre-train
 1. **Clone the repository**:
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/adiwira09/api-face-shape-detection.git
+    cd api-face-shape-detection
     ```
 2. **Install the required packages**:
 
